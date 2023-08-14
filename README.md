@@ -14,6 +14,9 @@ This web application caters to movies and TV shows, allowing users to effortless
   2) This application has infinite scrolling.
   3) Lazy Loading for images.
   4) Uesd content wrapper High Order Component
+
+# API Fetching 
+The Movie Database(TMDB) -> https://www.themoviedb.org/?language=en-US
      
 
 
