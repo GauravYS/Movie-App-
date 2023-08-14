@@ -9,6 +9,13 @@ This web application caters to movies and TV shows, allowing users to effortless
 ![image](https://github.com/GauravYS/Movie-App-/assets/116845183/21657af0-44d1-47dd-b996-d1b8645d2219)
 ![image](https://github.com/GauravYS/Movie-App-/assets/116845183/a7983950-9556-4bb3-8e48-3dd65f65bdcc)
 
+# Features
+  1) Used mixin to create a fully responsive website.
+  2) This application has infinite scrolling.
+  3) Lazy Loading for images.
+  4) Uesd content wrapper High Order Component
+     
+
 
 
 
