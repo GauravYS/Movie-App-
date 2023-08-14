@@ -6,6 +6,7 @@ This web application caters to movies and TV shows, allowing users to effortless
 ![image](https://github.com/GauravYS/Movie-App-/assets/116845183/da344571-6730-489d-9a70-1425f714b9be)
 ![image](https://github.com/GauravYS/Movie-App-/assets/116845183/ebc3d276-0464-441c-9a48-d15950384688)
 ![image](https://github.com/GauravYS/Movie-App-/assets/116845183/2b182448-dd34-41dd-b437-771009902d66)
+![image](https://github.com/GauravYS/Movie-App-/assets/116845183/21657af0-44d1-47dd-b996-d1b8645d2219)
 ![image](https://github.com/GauravYS/Movie-App-/assets/116845183/a7983950-9556-4bb3-8e48-3dd65f65bdcc)
 
 
