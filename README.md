@@ -27,7 +27,7 @@ The Movie Database(TMDB) -> https://www.themoviedb.org/?language=en-US
 
 # How to host this project
   1) Push your project files on github.
-` 2) Create an account on Vercel -> https://vercel.com/dashboard.
+  2) Create an account on Vercel -> https://vercel.com/dashboard.
   3) Connect your github on vercel and them import the project files.
 
 # React + Vite
