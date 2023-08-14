@@ -18,9 +18,17 @@ This web application caters to movies and TV shows, allowing users to effortless
 # API Fetching 
 The Movie Database(TMDB) -> https://www.themoviedb.org/?language=en-US
      
+# How to run this on your local system
+  1) clone this repository (git clone) and then move into this cloned directory.
+  2) Change the env file with your TMDB token.
+  3) Run the command npm create vite@latest.
+  4) Run the command npm i.
+  5) Run the command npm run dev.
 
-
-
+# How to host this project
+  1) Push your project files on github.
+` 2) Create an account on Vercel -> https://vercel.com/dashboard.
+  3) Connect your github on vercel and them import the project files.
 
 # React + Vite
 
